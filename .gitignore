@@ -1,0 +1,6 @@
+.git/
+.idea/
+my-app/.terraform
+my-app/.terraform.lock.hcl
+my-app/terraform.tfstate
+my-app/terraform.tfstate.backup
